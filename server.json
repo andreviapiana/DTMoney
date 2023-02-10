@@ -47,14 +47,6 @@
       "type": "outcome",
       "createdAt": "2022-07-30T13:38:57.560Z",
       "id": 6
-    },
-    {
-      "description": "Perna de Salame",
-      "price": 25,
-      "category": "Alimentação",
-      "type": "outcome",
-      "createdAt": "2023-02-08T11:58:11.002Z",
-      "id": 7
     }
   ]
 }
