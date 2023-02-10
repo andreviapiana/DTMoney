@@ -61,12 +61,28 @@ $ npm install
 # Agora inicie o servidor do FrontEnd
 $ npm run dev
 
-# Então inicie o servidor do BackEnd
-$ npm run dev:server
-
 # O terminal irá exibir o endereço local onde a aplicação está sendo executada. Basta digitar o mesmo endereço em seu navegador preferido. O endereço usado na criação do projeto foi este:
 
   http://localhost:5173/
+```
+
+#### 🚧 Deseja Executar o BackEnd localmente?
+
+O BackEnd roda nativamente através do meu servidor JSON. Caso deseje rodar ele localmente em sua máquina, siga os passos:
+
+```bash
+
+# Navegue até o diretório
+$ cd DTMoney/src/lib
+
+# Abra o arquivo AXIOS.TS que está no diretório acima
+
+# Faça a inversão dos itens que ficam comentados, de modo que os endereços ficarão assim:
+baseURL: 'http://localhost:3000',
+// baseURL: 'https://my-json-server.typicode.com/andreviapiana/dtmoney',
+
+# Então inicie o servidor do BackEnd
+$ npm run dev:server
 ```
 
 ___
