@@ -23,7 +23,7 @@ ___
 ## 🎨 Layout
 A página em formato desktop é vista na imagem abaixo:
 
-![Home](https://user-images.githubusercontent.com/106932234/216380587-1b2aa1bc-1735-4f46-8a9b-e62d5e1b00dc.png)
+![Capa](https://user-images.githubusercontent.com/106932234/217977248-680d1f67-054b-4290-8bba-548154d18012.png)
 
 ___
 
